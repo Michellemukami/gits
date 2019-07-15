@@ -20,10 +20,13 @@ Click on the green 'clone or download' button to get this project on your PC
 
 ## Technologies used
 
-  Angular-cli
+  * Angular-cli
+  * HTML
+  * CSS
+  * Bootstrap
 
 ## Contact Details
 
 Please reach out to me with any questions at:
 
-####michellemukami.g@gmail.com
+#### michellemukami.g@gmail.com
