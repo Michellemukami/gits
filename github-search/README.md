@@ -1,27 +1,29 @@
-# GithubSearch
+# GITHUB SEARCH
+This is a webpage where you can key in a certain persons Github name and as a result the person's Github profile is displayed inclusive of the number of followers and following also the repositories are displayed 
+### By Michelle Mukami Gitau
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.6.
+## Description
+This is a simple Angular application where you can key in a certain persons Github name and as a result the person's Github profile is displayed inclusive of the number of followers and following also the repositories are displayed 
+## Set up Instructions
 
-## Development server
+On the top right corner of your screen, click the 'fork' button to fork my work.
+Click on the green 'clone or download' button to get this project on your PC
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## BEHAVIOR DRIVEN DEVELOPMENT (Specifications)
 
-## Code scaffolding
+* * *
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+| Behavior                         | Input            | Output       |
+| -------------------------------- | ---------------- | ------------ |
+| Looks for the persons name in Github                  | Name      | followers,following and repositories  |
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Technologies used
 
-## Running unit tests
+  Angular-cli
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Contact Details
 
-## Running end-to-end tests
+Please reach out to me with any questions at:
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+michellemukami.g@gmail.com
