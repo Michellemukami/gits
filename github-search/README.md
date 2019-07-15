@@ -9,7 +9,7 @@ This is a simple Angular application where you can key in a certain persons Gith
 On the top right corner of your screen, click the 'fork' button to fork my work.
 Click on the green 'clone or download' button to get this project on your PC
 
-## BEHAVIOR DRIVEN DEVELOPMENT (Specifications)
+## BEHAVIOR DRIVEN DEVELOPMENT 
 
 * * *
 
