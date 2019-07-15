@@ -26,4 +26,4 @@ Click on the green 'clone or download' button to get this project on your PC
 
 Please reach out to me with any questions at:
 
-michellemukami.g@gmail.com
+####michellemukami.g@gmail.com
