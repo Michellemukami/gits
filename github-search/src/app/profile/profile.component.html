@@ -10,7 +10,7 @@
         <div class="form-group">
           <div class="row">
             <div class="col-md-9">
-              <input type="text" class="form-control" placeholder="Search Github username" [(ngModel)]="username" name="username">
+              <input type="text" class="form-control" placeholder="Github username" [(ngModel)]="username" name="username">
             </div>
             <div class="col-sm-3">
               <button class="btn btn-warning" (click)=getRepo() (click)=getUser()>Search<i class="fa fa-spinner fa-pulse fa-3x fa-fw"></i>
@@ -57,7 +57,7 @@
           
         <div class="" *ngFor='let rep of repo'>  
               
-        <p class="clearfix"><strong></strong> <strong>{{rep.name}}</strong><a href="{{rep.html_url}}" target="_blank" class="btn btn-success float-left">Checkout on Github!</a></p>
+        <p class="clearfix"><strong>Name: </strong> <strong>{{rep.name}}</strong><a href="{{rep.html_url}}" target="_blank" class="btn btn-success float-left">Checkout on Github!</a></p>
         
         <div class="card-body">
           <ul class="list-group">
